@@ -1,0 +1,21 @@
+nav{
+    height: 90px;
+}
+#logoAP{
+    width: 160px;
+   
+}
+#nav{
+    position: relative;
+}
+ #prueba1{
+     padding: 15px;
+     padding-right: 20px;
+     text-align:center;
+ }
+ #prueba2{
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+ }
